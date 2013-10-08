@@ -1,0 +1,44 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	background: #FC6;
+	margin: 0;
+	font-family: "Helvetica", sans-serif;
+}
+
+h1, h2,{
+	margin: 0;
+}
+
+h3 {
+	margin: 10px;
+}
+h1 {
+	padding: 20px 15px;
+	background: #aaa;
+	color: #4844E8;
+	text-shadow: 1px 1px 2px #424242;
+}
+
+h2 {
+	text-align:center;
+}
+
+.container {
+	background: #fff;
+	width: 1300px;
+	margin: 0 auto;
+	
+}
+img {
+	margin: 10px;
+}
+p {
+	margin: 10px;
+}
+
+.floatright {
+	float: right;
+	margin-right: 50px;
+}
